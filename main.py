@@ -24,7 +24,7 @@ if not os.path.exists(model_path):
 model = load_model(model_path)
 
 # Class labels
-class_labels = ['glioma','meningioma','notumor', 'pituitary']
+class_labels = ['notumor','meningioma','glioma', 'pituitary']
 
 # Define the uploads folder
 UPLOAD_FOLDER = './uploads'
