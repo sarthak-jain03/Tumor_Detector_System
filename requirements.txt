@@ -1,0 +1,6 @@
+flask
+tensorflow
+gdown
+numpy
+Pillow
+matplotlib
